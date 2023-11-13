@@ -1,0 +1,20 @@
+ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+}
+li{
+  flex: 50%;
+  width: 50%;
+  border-radius: 10px;
+}
+.normal {
+  background: grey;
+}
+.fire {
+  background: red;
+}
+.water{
+  background: cyan;
+}
